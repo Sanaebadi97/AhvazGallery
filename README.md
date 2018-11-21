@@ -17,3 +17,8 @@ For help getting started with Flutter, view our online
 It is My First Flutter App For AhvazDM Meeting.
 
 Please Fork it and Development it.I hope Enjoy it.
+
+fOr get Apk Releas You can :
+
+just run ```flutter clean``` and run ```flutter build apk``` after that and it generate update app apk.
+if you want to install it directly just run ```flutter install``` after the build command.
