@@ -1,5 +1,12 @@
 # AhvazDM Gallery 
 
+
+# Screen Shot
+
+![screenshot_20181121-230336](https://user-images.githubusercontent.com/26750131/48864522-cd4e3000-ed9a-11e8-9b70-2ddaefad5d18.png)
+
+----
+
 A new Flutter application.
 
 ## Getting Started
