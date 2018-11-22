@@ -18,7 +18,7 @@ It is My First Flutter App For [AhvazDM Meeting](https://t.me/AhvazDM).
 
 Please Fork it and Development it.I hope Enjoy it.
 
-*for get Apk Releas You can :*
+*for get Apk Release You can :*
 
 just run ```flutter clean``` and run ```flutter build apk``` after that and it generate update app apk.
 if you want to install it directly just run ```flutter install``` after the build command.
