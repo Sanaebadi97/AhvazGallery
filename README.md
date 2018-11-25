@@ -27,7 +27,9 @@ Widgets that were used :
 4.AppBar
 
 5.Text
+
 6.Icon
+
 7.FloatingActionButtonLocation
 8.FloatingActionButton
 9.BottomAppBar
