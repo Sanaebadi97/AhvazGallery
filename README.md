@@ -16,6 +16,22 @@ For help getting started with Flutter, view our online
 
 It is my First Flutter App For [AhvazDM Meeting](https://t.me/AhvazDM).
 
+Widgets that were used :
+
+1.StatefulWidget
+2.State
+3.IconButton
+4.AppBar
+5.Text
+6.Icon
+7.FloatingActionButtonLocation
+8.FloatingActionButton
+9.BottomAppBar
+10.GridView
+
+
+---
+
 __Please Fork it and Development it.I hope Enjoy it.__
 
 
