@@ -35,7 +35,7 @@ class MainPageState extends State<MainPage> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         child: Icon(Icons.thumb_up),
-        //shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(5.0)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(5.0)),
         foregroundColor: Colors.white,
         elevation: 0.0,
         tooltip: "Like Photo",
