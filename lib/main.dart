@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(new MyApp());
+
 
 class MainPage extends StatefulWidget {
   final String title;
