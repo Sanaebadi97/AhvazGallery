@@ -39,9 +39,9 @@ __Widgets that were used :__
 
 7.```FloatingActionButtonLocation```
 
-8.FloatingActionButton
+8.```loatingActionButton```
 
-9.BottomAppBar
+9.```BottomAppBar```
 
 10.GridView
 
