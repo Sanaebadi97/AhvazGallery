@@ -27,7 +27,7 @@ __Widgets that were used :__
 
 1.```StatefulWidget```
 
-2.State
+2.```State```
 
 3.IconButton
 
