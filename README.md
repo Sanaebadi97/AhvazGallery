@@ -43,7 +43,7 @@ __Widgets that were used :__
 
 9.```BottomAppBar```
 
-10.GridView
+10.```GridView```
 
 
 ---
