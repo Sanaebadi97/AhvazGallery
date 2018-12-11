@@ -33,7 +33,7 @@ __Widgets that were used :__
 
 4.```AppBar```
 
-5.Text
+5.```Text```
 
 6.Icon
 
