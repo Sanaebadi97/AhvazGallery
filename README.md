@@ -35,9 +35,9 @@ __Widgets that were used :__
 
 5.```Text```
 
-6.Icon
+6.```Icon```
 
-7.FloatingActionButtonLocation
+7.```FloatingActionButtonLocation```
 
 8.FloatingActionButton
 
