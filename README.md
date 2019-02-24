@@ -44,7 +44,7 @@ __Widgets that were used :__
 
 ---
 
-__Please Fork it and Development it.I hope Enjoy it.__
+_Please Fork it and Development it.I hope Enjoy it.__
 
 
 __for get Apk Release You can :__
